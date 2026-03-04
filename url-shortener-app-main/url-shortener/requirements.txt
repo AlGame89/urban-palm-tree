@@ -1,0 +1,10 @@
+﻿fastapi==0.133.1
+uvicorn==0.41.0
+SQLAlchemy==2.0.47
+pydantic==2.12.5
+python-jose[cryptography]==3.5.0
+passlib==1.7.4
+argon2-cffi==25.1.0
+python-dotenv==1.2.1
+pytest==9.0.2
+typing_extensions==4.15.0
